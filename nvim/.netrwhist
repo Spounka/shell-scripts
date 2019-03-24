@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/spounka/Documents/Projects/python/Dino Runner/venv/lib64'
+let g:netrw_dirhist_2='/home/spounka/Documents/Projects/python/Dino Runner/venv/lib64/python3.6'
+let g:netrw_dirhist_3='/home/spounka/Documents/Projects/python/Dino Runner/venv/lib64/python3.6/site-packages'
+let g:netrw_dirhist_4='/home/spounka/Documents/Projects/python/Dino Runner/venv/lib64/python3.6/site-packages/pygame'
+let g:netrw_dirhist_5='/home/spounka/Documents/Projects/Websites/NaO/.git'
+let g:netrw_dirhist_6='/etc/vulkan'
