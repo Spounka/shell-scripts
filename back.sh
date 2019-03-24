@@ -1,11 +1,16 @@
-#!/bin/bash
+#/bin/bash
 
 steps=$1
 i=0
 
-while (( i < steps));
-do
+if [ -z $steps ]; then
     cd ../
-    (( i++ ))
-done
+else
+
+    while (( i < steps));
+    do
+        cd ../
+        (( i++ ))
+    done
+fi
 
