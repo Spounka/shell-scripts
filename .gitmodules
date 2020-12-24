@@ -1,0 +1,3 @@
+[submodule "extract-and-symlink"]
+	path = extract-and-symlink
+	url = git@github.com:Spounka/extract-and-symlink.git
