@@ -1,0 +1,6 @@
+#!/bin/bash
+
+auto_start.sh&
+joplin-desktop&
+zenkit&
+libreoffice&
